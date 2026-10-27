@@ -1,7 +1,0 @@
-events.json
-judgment.json
-leakcheck_failures.json
-*.private.*
-build.py
-README.txt
-rules.json

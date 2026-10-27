@@ -1,20 +1,18 @@
 {
  "title": "Michael Hentschel, TechVest Ventures: Availability",
  "timezone": "America/New_York",
- "generated": "2026-10-26T20:10:22.218871-04:00",
+ "generated": "2026-10-26T20:19:24.814343-04:00",
  "window": "10:00 AM to 2:00 AM ET (last slot starts 1:30 AM), any day",
  "slot_minutes": 30,
  "statuses": {
   "open": "Requestable",
-  "n/a": "n/a",
-  "past": "Past"
+  "n/a": "n/a"
  },
  "note": "Texts welcome (number on the web page).",
  "booking": "How to book: email techvest@att.net with two or three Requestable times (ET) and the topic. The Zoom link is sent on confirmation.",
  "counts": {
   "open": 338,
-  "n/a": 92,
-  "past": 20
+  "n/a": 112
  },
  "days": [
   {
@@ -25,121 +23,121 @@
      "start": "2026-10-26T10:00:00-04:00",
      "end": "2026-10-26T10:30:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T10:30:00-04:00",
      "end": "2026-10-26T11:00:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T11:00:00-04:00",
      "end": "2026-10-26T11:30:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T11:30:00-04:00",
      "end": "2026-10-26T12:00:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T12:00:00-04:00",
      "end": "2026-10-26T12:30:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T12:30:00-04:00",
      "end": "2026-10-26T13:00:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T13:00:00-04:00",
      "end": "2026-10-26T13:30:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T13:30:00-04:00",
      "end": "2026-10-26T14:00:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T14:00:00-04:00",
      "end": "2026-10-26T14:30:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T14:30:00-04:00",
      "end": "2026-10-26T15:00:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T15:00:00-04:00",
      "end": "2026-10-26T15:30:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T15:30:00-04:00",
      "end": "2026-10-26T16:00:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T16:00:00-04:00",
      "end": "2026-10-26T16:30:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T16:30:00-04:00",
      "end": "2026-10-26T17:00:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T17:00:00-04:00",
      "end": "2026-10-26T17:30:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T17:30:00-04:00",
      "end": "2026-10-26T18:00:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T18:00:00-04:00",
      "end": "2026-10-26T18:30:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T18:30:00-04:00",
      "end": "2026-10-26T19:00:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T19:00:00-04:00",
      "end": "2026-10-26T19:30:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T19:30:00-04:00",
      "end": "2026-10-26T20:00:00-04:00",
      "zone": "EDT",
-     "status": "past"
+     "status": "n/a"
     },
     {
      "start": "2026-10-26T20:00:00-04:00",
