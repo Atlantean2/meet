@@ -1,7 +1,7 @@
 {
  "title": "Michael Hentschel, TechVest Ventures: Availability",
  "timezone": "America/New_York",
- "generated": "2026-10-28T12:40:37.841530-04:00",
+ "generated": "2026-10-28T14:15:15.640776-04:00",
  "window": "10:00 AM to 2:00 AM ET (last slot starts 1:30 AM), any day",
  "slot_minutes": 30,
  "statuses": {
@@ -11,8 +11,8 @@
  "note": "Texts welcome (number on the web page).",
  "booking": "How to book: email techvest@att.net with two or three Requestable times (ET) and the topic. The Zoom link is sent on confirmation.",
  "counts": {
-  "open": 338,
-  "n/a": 112
+  "open": 335,
+  "n/a": 115
  },
  "days": [
   {
@@ -53,19 +53,19 @@
      "start": "2026-10-28T12:30:00-04:00",
      "end": "2026-10-28T13:00:00-04:00",
      "zone": "EDT",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-10-28T13:00:00-04:00",
      "end": "2026-10-28T13:30:00-04:00",
      "zone": "EDT",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-10-28T13:30:00-04:00",
      "end": "2026-10-28T14:00:00-04:00",
      "zone": "EDT",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-10-28T14:00:00-04:00",
