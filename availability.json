@@ -1,7 +1,7 @@
 {
  "title": "Michael Hentschel, TechVest Ventures: Availability",
  "timezone": "America/New_York",
- "generated": "2026-10-28T07:02:39.033102-04:00",
+ "generated": "2026-10-28T12:40:37.841530-04:00",
  "window": "10:00 AM to 2:00 AM ET (last slot starts 1:30 AM), any day",
  "slot_minutes": 30,
  "statuses": {
@@ -29,13 +29,13 @@
      "start": "2026-10-28T10:30:00-04:00",
      "end": "2026-10-28T11:00:00-04:00",
      "zone": "EDT",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-10-28T11:00:00-04:00",
      "end": "2026-10-28T11:30:00-04:00",
      "zone": "EDT",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-10-28T11:30:00-04:00",
@@ -53,13 +53,13 @@
      "start": "2026-10-28T12:30:00-04:00",
      "end": "2026-10-28T13:00:00-04:00",
      "zone": "EDT",
-     "status": "n/a"
+     "status": "open"
     },
     {
      "start": "2026-10-28T13:00:00-04:00",
      "end": "2026-10-28T13:30:00-04:00",
      "zone": "EDT",
-     "status": "n/a"
+     "status": "open"
     },
     {
      "start": "2026-10-28T13:30:00-04:00",
