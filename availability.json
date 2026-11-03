@@ -1,7 +1,7 @@
 {
  "title": "Michael Hentschel, TechVest Ventures: Availability",
  "timezone": "America/New_York",
- "generated": "2026-11-03T14:55:46.363423-05:00",
+ "generated": "2026-11-03T14:56:28.201852-05:00",
  "window": "10:00 AM to 2:00 AM ET (last slot starts 1:30 AM), any day",
  "slot_minutes": 30,
  "statuses": {
@@ -11,8 +11,8 @@
  "note": "Intelligent texts welcome (number on the web page).",
  "booking": "How to book: email techvest@att.net with two or three Requestable times (ET) and the topic. The Zoom link is sent on confirmation.",
  "counts": {
-  "open": 341,
-  "n/a": 107
+  "open": 314,
+  "n/a": 134
  },
  "days": [
   {
@@ -2225,13 +2225,13 @@
      "start": "2026-11-14T12:00:00-05:00",
      "end": "2026-11-14T12:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-14T12:30:00-05:00",
      "end": "2026-11-14T13:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-14T13:00:00-05:00",
@@ -2351,13 +2351,13 @@
      "start": "2026-11-14T22:30:00-05:00",
      "end": "2026-11-14T23:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-14T23:00:00-05:00",
      "end": "2026-11-14T23:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-14T23:30:00-05:00",
@@ -2399,25 +2399,25 @@
      "start": "2026-11-15T10:00:00-05:00",
      "end": "2026-11-15T10:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T10:30:00-05:00",
      "end": "2026-11-15T11:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T11:00:00-05:00",
      "end": "2026-11-15T11:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T11:30:00-05:00",
      "end": "2026-11-15T12:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T12:00:00-05:00",
@@ -2471,49 +2471,49 @@
      "start": "2026-11-15T16:00:00-05:00",
      "end": "2026-11-15T16:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T16:30:00-05:00",
      "end": "2026-11-15T17:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T17:00:00-05:00",
      "end": "2026-11-15T17:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T17:30:00-05:00",
      "end": "2026-11-15T18:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T18:00:00-05:00",
      "end": "2026-11-15T18:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T18:30:00-05:00",
      "end": "2026-11-15T19:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T19:00:00-05:00",
      "end": "2026-11-15T19:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T19:30:00-05:00",
      "end": "2026-11-15T20:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-15T20:00:00-05:00",
@@ -2597,19 +2597,19 @@
      "start": "2026-11-16T10:00:00-05:00",
      "end": "2026-11-16T10:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-16T10:30:00-05:00",
      "end": "2026-11-16T11:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-16T11:00:00-05:00",
      "end": "2026-11-16T11:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-16T11:30:00-05:00",
@@ -2651,31 +2651,31 @@
      "start": "2026-11-16T14:30:00-05:00",
      "end": "2026-11-16T15:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-16T15:00:00-05:00",
      "end": "2026-11-16T15:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-16T15:30:00-05:00",
      "end": "2026-11-16T16:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-16T16:00:00-05:00",
      "end": "2026-11-16T16:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-16T16:30:00-05:00",
      "end": "2026-11-16T17:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-16T17:00:00-05:00",
@@ -2687,19 +2687,19 @@
      "start": "2026-11-16T17:30:00-05:00",
      "end": "2026-11-16T18:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-16T18:00:00-05:00",
      "end": "2026-11-16T18:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-16T18:30:00-05:00",
      "end": "2026-11-16T19:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-16T19:00:00-05:00",
