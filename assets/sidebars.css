@@ -1,0 +1,18 @@
+/* TVV dark gray side bars for meet.techvestventures.com. Kept outside index.html so the availability refresh does not overwrite it. */
+:root{--tvv-char:#2b2b2b;--tvv-w:clamp(150px,14vw,230px);--tvv-serif:Georgia,"Times New Roman",Times,"Liberation Serif","DejaVu Serif",serif}
+.tvv-bar{position:fixed;top:0;bottom:0;width:var(--tvv-w);background:var(--tvv-char);z-index:4;display:flex;flex-direction:column;align-items:center;padding:20px 14px;gap:14px;overflow:hidden;box-shadow:0 0 18px rgba(0,0,0,.35)}
+.tvv-bar.l{left:0}.tvv-bar.r{right:0}
+.tvv-bar a{display:flex;flex-direction:column;align-items:center;gap:10px;text-decoration:none;color:#f2f2f2}
+.tvv-bar img.tile{width:min(117px,80%);height:auto;display:block}
+.tvv-bar img.art{width:100%;height:auto;display:block;border:1px solid #1e1e1e;box-shadow:0 4px 14px rgba(0,0,0,.7)}
+.tvv-bar .nm{font-family:var(--tvv-serif);font-size:1.05rem;line-height:1.2;text-align:center;color:#f2f2f2;letter-spacing:.01em}
+body.tvv-has-bars{padding-left:var(--tvv-w);padding-right:var(--tvv-w)}
+.tvv-strip{display:none}
+@media (max-width:699.98px){
+ .tvv-bar{display:none}
+ body.tvv-has-bars{padding-left:0;padding-right:0}
+ .tvv-strip{display:flex;align-items:center;justify-content:center;gap:12px;background:var(--tvv-char);padding:8px 12px;text-decoration:none}
+ .tvv-strip img{height:40px;width:auto;display:block}
+ .tvv-strip .nm{font-family:var(--tvv-serif);font-size:1.05rem;color:#f2f2f2}
+ header{padding-top:16px}
+}
