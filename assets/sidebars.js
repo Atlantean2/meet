@@ -6,7 +6,7 @@
   if(document.querySelector('.tvv-bar'))return;
   var b=document.body;
   var l=document.createElement('aside');l.className='tvv-bar l';l.setAttribute('aria-label','TechVestVentures');
-  l.innerHTML='<a href="'+home+'">'+tile('tile')+'<span class="nm">TechVestVentures</span></a><img class="art" src="assets/concept-1-building-blocks-cosmos-square-540.webp" alt="Building Blocks Cosmos art" width="540" height="540">';
+  l.innerHTML='<a href="'+home+'">'+tile('tile')+'<span class="nm">TechVestVentures</span></a>';
   var r=document.createElement('aside');r.className='tvv-bar r';r.setAttribute('aria-hidden','true');
   r.innerHTML='<a href="'+home+'" tabindex="-1">'+tile('tile')+'<span class="nm">TechVestVentures</span></a>';
   var s=document.createElement('a');s.className='tvv-strip';s.href=home;s.innerHTML=tile('')+'<span class="nm">TechVestVentures</span>';
