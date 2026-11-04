@@ -6,10 +6,10 @@
   if(document.querySelector('.tvv-bar'))return;
   var b=document.body;
   var l=document.createElement('aside');l.className='tvv-bar l';l.setAttribute('aria-label','TechVestVentures');
-  l.innerHTML='<a href="'+home+'">'+tile('tile')+'<span class="nm">TechVestVentures</span></a>';
+  l.innerHTML='<a href="'+home+'">'+tile('tile')+'</a>';
   var r=document.createElement('aside');r.className='tvv-bar r';r.setAttribute('aria-hidden','true');
-  r.innerHTML='<a href="'+home+'" tabindex="-1">'+tile('tile')+'<span class="nm">TechVestVentures</span></a>';
-  var s=document.createElement('a');s.className='tvv-strip';s.href=home;s.innerHTML=tile('')+'<span class="nm">TechVestVentures</span>';
+  r.innerHTML='<a href="'+home+'" tabindex="-1">'+tile('tile')+'</a>';
+  var s=document.createElement('a');s.className='tvv-strip';s.href=home;s.innerHTML=tile('');
   b.insertBefore(s,b.firstChild);b.appendChild(l);b.appendChild(r);b.classList.add('tvv-has-bars');
  }
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',go);else go();
