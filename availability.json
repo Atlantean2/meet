@@ -1,7 +1,7 @@
 {
  "title": "Michael Hentschel, TechVest Ventures: Availability",
  "timezone": "America/New_York",
- "generated": "2026-11-13T14:57:55.316043-05:00",
+ "generated": "2026-11-13T20:58:31.243800-05:00",
  "window": "10:00 AM to 2:00 AM ET (last slot starts 1:30 AM), any day",
  "slot_minutes": 30,
  "statuses": {
@@ -11,8 +11,8 @@
  "note": "Intelligent texts welcome (number on the web page).",
  "booking": "How to book: email techvest@att.net with two or three Requestable times (ET) and the topic. The Zoom link is sent on confirmation.",
  "counts": {
-  "open": 334,
-  "n/a": 114
+  "open": 325,
+  "n/a": 123
  },
  "days": [
   {
@@ -77,25 +77,25 @@
      "start": "2026-11-13T14:30:00-05:00",
      "end": "2026-11-13T15:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-13T15:00:00-05:00",
      "end": "2026-11-13T15:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-13T15:30:00-05:00",
      "end": "2026-11-13T16:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-13T16:00:00-05:00",
      "end": "2026-11-13T16:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-13T16:30:00-05:00",
@@ -119,31 +119,31 @@
      "start": "2026-11-13T18:00:00-05:00",
      "end": "2026-11-13T18:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-13T18:30:00-05:00",
      "end": "2026-11-13T19:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-13T19:00:00-05:00",
      "end": "2026-11-13T19:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-13T19:30:00-05:00",
      "end": "2026-11-13T20:00:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-13T20:00:00-05:00",
      "end": "2026-11-13T20:30:00-05:00",
      "zone": "EST",
-     "status": "open"
+     "status": "n/a"
     },
     {
      "start": "2026-11-13T20:30:00-05:00",
